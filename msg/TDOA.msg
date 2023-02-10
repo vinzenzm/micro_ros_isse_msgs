@@ -1,4 +1,3 @@
-stdt_msgs/Header header
 uint8 anchor_a_id
 float64 anchor_a_x
 float64 anchor_a_y

@@ -29,6 +29,7 @@ find_package(std_msgs REQUIRED)
 rosidl_generate_interfaces(
   ${PROJECT_NAME}
   "msg/TDOA.msg"
+  DEPENDENCIES std_msgs
 )
 
 ament_export_libraries()

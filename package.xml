@@ -3,7 +3,7 @@
 <package format="3">
   <name>micro_ros_isse_msgs</name>
   <version>1.0.0</version>
-  <description>Definitions for the ROS 2 msgs entities information used by micro-ROS to leverage its functionality to the same level as ROS 2, by means of a dedicated graph manager</description>
+  <description>Definitions for the ROS 2 msgs entities information for use in ISSE projects</description>
   <maintainer email="vinzenz.malke@uni-a.de">Vinzenz Malke</maintainer>
   <license>Apache License 2.0</license>
 

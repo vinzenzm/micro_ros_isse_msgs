@@ -8,3 +8,4 @@ uint8 anchor_b_id
 float64 anchor_b_x
 float64 anchor_b_y
 float64 anchor_b_z
+float64 dist_diff

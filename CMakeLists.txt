@@ -24,6 +24,8 @@ if(BUILD_TESTING)
   ament_lint_auto_find_test_dependencies()
 endif()
 
+find_package(std_msgs REQUIRED)
+
 rosidl_generate_interfaces(
   ${PROJECT_NAME}
   "msg/TDOA.msg"
